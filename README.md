@@ -1,315 +1,201 @@
-# 🚀 C++ Beginner Practice Sheet
+<div align="center">
 
-## Problem 1 — Sum of Digits
+# COMPETITIVE PROGRAMMING
 
-**Description**
+### *"The Art of Solving Problems."*
 
-Given a positive integer **N**, print the sum of its digits.
+<p>
+<img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Practice-Everyday-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Goal-Grandmaster-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge"/>
+</p>
 
-### Input
-A single integer `N`.
+---
 
-### Output
-Print the sum of the digits of `N`.
+## "Consistency beats intensity."
 
-### Example
+*"One solved problem every day is better than ten solved once a month."*
 
-**Input**
+</div>
+
+<br>
+
+# Philosophy
+
 ```
-12345
-```
-
-**Output**
-```
-15
+Every Wrong Answer
+        ↓
+ Every Mistake Found
+        ↓
+ Better Understanding
+        ↓
+ Better Algorithms
+        ↓
+ Better Programmer
 ```
 
 ---
 
-## Problem 2 — Reverse Integer
+# The Competitive Programmer
 
-**Description**
+```cpp
+int main()
+{
+    while (!become_great)
+    {
+        Learn();
 
-Given an integer **N**, print its reverse. Ignore leading zeros in the reversed number.
+        Think();
 
-### Input
-A single integer `N`.
+        Code();
 
-### Output
-Print the reversed integer.
+        Debug();
 
-### Example
+        Practice();
 
-**Input**
-```
-12340
-```
+        Improve();
+    }
 
-**Output**
-```
-4321
-```
-
----
-
-## Problem 3 — Prime Number
-
-**Description**
-
-Determine whether a given integer **N** is a prime number.
-
-### Input
-A single integer `N`.
-
-### Output
-
-Print:
-
-```
-YES
-```
-
-if `N` is prime, otherwise print:
-
-```
-NO
-```
-
-### Example
-
-**Input**
-```
-17
-```
-
-**Output**
-```
-YES
+    return SUCCESS;
+}
 ```
 
 ---
 
-## Problem 4 — Count Prime Numbers
+# Principles
 
-**Description**
-
-Given an integer **N**, count how many prime numbers exist from `1` to `N` (inclusive).
-
-### Input
-A single integer `N`.
-
-### Output
-Print the total number of prime numbers.
-
-### Example
-
-**Input**
 ```
-20
-```
+01. Read Carefully.
 
-**Output**
-```
-8
+02. Think Before Coding.
+
+03. Optimize Later.
+
+04. Debug Calmly.
+
+05. Learn From Every Failure.
+
+06. Never Skip Difficult Problems.
+
+07. Trust Consistency.
+
+08. Repeat Forever.
 ```
 
 ---
 
-## Problem 5 — Palindrome Number
-
-**Description**
-
-Determine whether a given integer is a palindrome.
-
-### Input
-A single integer `N`.
-
-### Output
-
-Print:
+# Success Formula
 
 ```
-YES
-```
-
-if the number is a palindrome, otherwise print:
-
-```
-NO
-```
-
-### Example
-
-**Input**
-```
-1221
-```
-
-**Output**
-```
-YES
+Discipline
+      +
+Consistency
+      +
+Patience
+      +
+Hard Work
+      +
+Time
+      =
+Mastery
 ```
 
 ---
 
-## Problem 6 — Second Largest Number
+# Reality
 
-**Description**
-
-Given `N` integers, find the second largest **distinct** number.
-
-### Input
-
-The first line contains an integer `N`.
-
-The second line contains `N` integers.
-
-### Output
-
-Print the second largest distinct number.
-
-### Example
-
-**Input**
 ```
-6
-4 8 2 10 10 5
-```
+Nobody...
 
-**Output**
-```
-8
+starts with Dynamic Programming.
+
+Nobody...
+
+solves 2000-rated problems on Day One.
+
+Nobody...
+
+becomes an Expert overnight.
+
+Everyone...
+
+starts with A + B.
 ```
 
 ---
 
-## Problem 7 — Frequency Counter
+# Mindset
 
-**Description**
+> "There is always someone practicing while you are waiting."
 
-Given an array of integers, print the frequency of every distinct number in ascending order.
+> "Your future rating depends on today's discipline."
 
-### Input
+> "The hardest problem you solve today becomes tomorrow's warm-up."
 
-The first line contains an integer `N`.
+> "Don't chase ratings. Chase understanding."
 
-The second line contains `N` integers.
+> "The compiler rewards logic, not excuses."
 
-### Output
+> "Every Accepted solution is built on failed submissions."
 
-For each distinct number, print:
+---
+
+# Road to Greatness
 
 ```
-number -> frequency
-```
-
-### Example
-
-**Input**
-```
-8
-1 2 2 3 3 3 5 5
-```
-
-**Output**
-```
-1 -> 1
-2 -> 2
-3 -> 3
-5 -> 2
+Beginner
+    │
+    ▼
+Basic Algorithms
+    │
+    ▼
+Data Structures
+    │
+    ▼
+Greedy
+    │
+    ▼
+Binary Search
+    │
+    ▼
+Dynamic Programming
+    │
+    ▼
+Graphs
+    │
+    ▼
+Advanced Algorithms
+    │
+    ▼
+Master
 ```
 
 ---
 
-## Problem 8 — Rotate Array
+# Daily Promise
 
-**Description**
-
-Given an array of size `N`, rotate it to the right by `K` positions.
-
-### Input
-
-The first line contains two integers `N` and `K`.
-
-The second line contains `N` integers.
-
-### Output
-
-Print the rotated array.
-
-### Example
-
-**Input**
 ```
-5 2
-1 2 3 4 5
-```
+Today I will solve
+at least one problem.
 
-**Output**
-```
-4 5 1 2 3
+Today I will learn
+at least one new concept.
+
+Today I will become
+better than yesterday.
 ```
 
 ---
 
-## Problem 9 — Missing Number
+<div align="center">
 
-**Description**
+# "Small progress, every single day."
 
-Numbers from `1` to `N` are given, but exactly one number is missing.
+### "Great programmers are built, not born."
 
-Find the missing number.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Input
+**Think Better. Code Better. Become Better.**
 
-The first line contains `N`.
-
-The second line contains `N - 1` integers.
-
-### Output
-
-Print the missing number.
-
-### Example
-
-**Input**
-```
-5
-1 2 3 5
-```
-
-**Output**
-```
-4
-```
-
----
-
-## Problem 10 — Longest Increasing Continuous Subarray
-
-**Description**
-
-Given an array of integers, find the length of the longest **continuous increasing subarray**.
-
-### Input
-
-The first line contains `N`.
-
-The second line contains `N` integers.
-
-### Output
-
-Print the maximum length.
-
-### Example
-
-**Input**
-```
-8
-1 2 5 3 4 5 6 1
-```
-
-**Output**
-```
-4
-```
+</div>
